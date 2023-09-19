@@ -32,6 +32,7 @@ An application for tracking weather forecasts by city.
 
 - Access the Application:
      - Access the application in your browser using the following address: http://localhost:5173
+<hr/>
 
 ## 🛠 &nbsp;Tecnologies
 <div align="center">
