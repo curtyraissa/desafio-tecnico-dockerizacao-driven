@@ -7,6 +7,8 @@
  ## 📝 About
 An application for tracking weather forecasts by city.
 
+<hr/>
+
 ## 💻 &nbsp;How to Use
 
 - Clone the repository to your machine:
