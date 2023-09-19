@@ -20,8 +20,18 @@ An application for tracking weather forecasts by city.
 - Run the project:
     - npm run dev
 
-    Access the project in your browser at http://localhost:3000.
+    Access the project in your browser at http://localhost:5173.
 <hr/>
+
+## 💻 &nbsp;How to Use by Docker
+- Download the Docker Image:
+     - Download the Docker image from Docker Hub using the following command: ``docker pull raissacurty/desafio-tecnico:latest``
+
+- Run the Docker Container:
+     - Use the following command to run the Docker container based on the image: ``docker run -d -p 5173:5173 raissacurty/desafio-tecnico:latest``
+
+- Access the Application:
+     - Access the application in your browser using the following address: http://localhost:5173
 
 ## 🛠 &nbsp;Tecnologies
 <div align="center">
@@ -37,6 +47,7 @@ An application for tracking weather forecasts by city.
 ## 🚀 &nbsp;Links
 
 - [Deploy](https://desafio-tecnico-front-driven.vercel.app/).<br/>
+- [Imagem-Docker](https://hub.docker.com/r/raissacurty/desafio-tecnico).<br/>
 
 <hr/>
 
